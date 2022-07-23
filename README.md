@@ -1,5 +1,8 @@
 # Desafio-Lighthouse-Indicium
 Arquivos para o desafio de Cientista de Dados para Lighthouse Indicium, do participante Gustavo Cabral de Barros
+
+
+
 Para rodar o projeto, basta ter o Anaconda instalado
 Com o Anaconda instalado, instalar os pacotes do Jupyter pelo terminal do anaconda, com os seguinte comandos:
 pip install jupyterlab
